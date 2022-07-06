@@ -1,7 +1,7 @@
-# Travel-Website
-                                                ********************* WELCOME TO TRAVELMANIA***********************
+# Travelmania
+                                                
  Introduction
- Travelmania website is an online travelling website containing all your prefrences and tours & packages and its a site which connect you to your best tour package site as and online best package locater for you and contains a login page , a website were you can visit and a booking page. So,please visit our site
+ Welcome to Travelmania website is an online travelling website containing all your prefrences and tours & packages and its a site which connect you to your best tour package site as and online best package locater for you and contains a login page , a website were you can visit and a booking page. So,please visit our site
  
  Login page
  Our login page contain a signup page which is connect to ur realtime database which helps us to let you login through our sign in side .
@@ -22,7 +22,7 @@
  we have connected our site to fire base features such as realtime database ,Login page is connected to realtime database and we have authenticated our site with email where we can find your emails where your bookings can be send . we have hosted our site .
  
  Hosting Site :- https://login-92833.web.app/
-                 https://login-92833.firebaseapp.com/
+         
  
 login
 ![login](https://user-images.githubusercontent.com/93962702/177335024-c951c7d4-d81d-4529-8eec-39732053b4d3.png)
